@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.container2 {
+  border: 1px solid #000000;
+  border-radius: 8px;
+  padding: 30px;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  font-size: 24px;
+}
+.btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-left: 10px;
+}
+.dark-mode {
+  background-color: #000000;
+  color: #ffffff;
+}
+.light-mode {
+  background-color: #ffffff;
+  color: #000000;
+}
